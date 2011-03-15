@@ -1,0 +1,24 @@
+/*******************************************************************************
+* This file is part of ready queue simulator project.
+* Maintained by : Varuna Lekamwasam <vrlekamwasam@gmail.com>
+* Authored By : Varuna Lekamwasam <vrlekamwasam@gmail.com>
+*
+* Ready queue simulator project is free software: you can redistribute it and/or modify
+* it under the terms of the GNU Lesser General Public License as published by
+* the Free Software Foundation, either version 3 of the License, or
+* (at your option) any later version.
+*
+* Ready queue is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+* GNU Lesser General Public License for more details.
+*
+*******************************************************************************/
+
+This is the read me of the ready queue simulator project.
+Read the necessary documentation to understand the underlying basics of the project
+Make sure that the documentation is not copied or removed.
+All will benefit from the fair use of code.
+
+git branch your development in order to make the changes.
+
