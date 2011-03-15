@@ -1,0 +1,25 @@
+
+--------------------------------
+0 : 9 
+ArrivalTime : 19:13:54
+--------------------------------
+
+Statistics for CPU - 3
+Process ID : 0
+Arrival time : 19:13:54
+Service time 19:13:54
+
+Statistics for CPU - 3
+Process ID : 0
+Arrival time : 19:13:54
+Completion time 19:14:3
+
+--------------------------------
+1 : 34 
+ArrivalTime : 19:14:4
+--------------------------------
+
+Statistics for CPU - 1
+Process ID : 1
+Arrival time : 19:14:4
+Service time 19:14:4
